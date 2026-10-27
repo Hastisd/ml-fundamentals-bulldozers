@@ -19,7 +19,7 @@ Predict the sale price of used bulldozers from their features, such as year made
 
 ## Results
 
-Best validation RMSLE: **(add your number here)**
+Best validation RMSLE
 
 ## Data
 
